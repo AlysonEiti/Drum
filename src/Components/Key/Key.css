@@ -1,0 +1,15 @@
+.key {
+    width: 80px;
+    height: 80px;
+    border: 2px solid #FFF;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.key.active {
+    border: 2px solid #FF0;
+    color: #FF0;
+}
